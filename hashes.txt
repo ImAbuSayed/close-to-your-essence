@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Close To Your Essence
+
+This log tracks the cryptographic history and versioning for the song **Close To Your Essence** (close-to-your-essence).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-13T01:42:12.774699 | `v1` | `310a09244014dcae16340cf5a47f053c788f04c322f22a25f9010524fcfb1e63` | `e302ce6aae8ce52d8afd43cee117332409e8c351e969f49348b7798cd628769f` | `2026-06-13_close-to-your-essence-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
