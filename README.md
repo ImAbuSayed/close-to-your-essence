@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/close-to-your-essence/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Close To Your Essence](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/close-to-your-essence/) |
+| **Get License** | [Secure Licensing Rights for Close To Your Essence](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/close-to-your-essence/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I want to lean in, trace the warmth on your skin
+> Tangled up in the moonlight, where we begin
+> Pulling you closer, letting go of control
+> Let the soft steady rhythm take over my soul
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
